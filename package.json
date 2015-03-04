@@ -1,0 +1,10 @@
+{
+	"author":	"Eli Gaddis",
+	"name":		"censorify",
+	"version":	"0.1.0",
+	"description":	"Censors words out of text",
+	"dependencies":	{},
+	"engines": {
+		"node": "*"
+	}
+}
