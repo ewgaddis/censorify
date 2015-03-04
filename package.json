@@ -1,7 +1,7 @@
 {
 	"author":	"Eli Gaddis",
 	"name":		"censorify.ewgaddis",
-	"version":	"0.1.0",
+	"version":	"0.1.1",
 	"description":	"Censors words out of text",
 	"repository": {
 		"type": "git",
