@@ -1,8 +1,12 @@
 {
 	"author":	"Eli Gaddis",
-	"name":		"censorify",
+	"name":		"censorify.ewgaddis",
 	"version":	"0.1.0",
 	"description":	"Censors words out of text",
+	"repository": {
+		"type": "git",
+		"location": "https://github.com/ewgaddis/censorify.git"
+	},
 	"dependencies":	{},
 	"engines": {
 		"node": "*"
